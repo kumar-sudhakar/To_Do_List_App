@@ -1,51 +1,53 @@
-# To_Do_List_App
-My InternSpark Assignment
+# My InternSpark Assignment
 
 📝 To-Do List App
+📌 Description
 
-🚀 Live Demo:
-👉 https://kumar-sudhakar.github.io/To_Do_List_App/
+A simple and responsive To-Do List Application built using HTML, CSS, and JavaScript.
+It helps users manage daily tasks efficiently with a clean and user-friendly interface.
 
-📌 About the Project
+🚀 Live Demo
 
-The To-Do List App is a simple and user-friendly web application that helps users manage their daily tasks efficiently. It allows users to add, delete, and track tasks, making productivity easier and more organized.
+🔗 https://kumar-sudhakar.github.io/To_Do_List_App/
 
-This project is built using HTML, CSS, and JavaScript, focusing on DOM manipulation and responsive design. Many similar apps use these technologies to create lightweight task managers without backend complexity.
-
-✨ Features
+📌 Features
 ➕ Add new tasks
-❌ Delete tasks
+🗑️ Delete tasks
 ✅ Mark tasks as completed
-📱 Responsive design (works on mobile & desktop)
-⚡ Fast and lightweight
-🎯 Easy-to-use interface
+📱 Fully responsive design (mobile + desktop)
+⚡ Simple and easy-to-use interface
 🛠️ Tech Stack
 HTML5 – Structure
 CSS3 – Styling
-JavaScript (DOM) – Functionality
+JavaScript (ES6) – Functionality
+
 📂 Project Structure
 To_Do_List_App/
 │── index.html
 │── style.css
 │── script.js
-🚀 How to Run Locally
-Clone the repository
-git clone https://github.com/kumar-sudhakar/To-Do-List-App.git
-Open the project folder
-cd To-Do-List-App
-Run the app
-Open index.html in your browser
-📸 Screenshots
+⚙️ How It Works
+User enters a task
+Task is added to the list
+User can mark task as completed
+User can delete task anytime
 
-(You can add screenshots here later if needed)
+💻 Run Locally
+git clone https://github.com/kumar-sudhakar/To_Do_List_App.git
+cd To_Do_List_App
+open index.html
 
-🎯 Learning Outcomes
-DOM manipulation in JavaScript
-Event handling
-Responsive UI design
-Building real-world beginner projects
-🔗 Connect with Me
+
+🎯 Future Improvements
+📝 Edit tasks
+📅 Add due dates
+💾 Save tasks in local storage
+🌙 Dark / Light mode
+👨‍💻 Author
+
+Sudhakar Kumar
+
 GitHub: https://github.com/kumar-sudhakar
-⭐ Show Your Support
+Portfolio: https://kumar-sudhakar.github.io/portfolio-website/
 
-If you like this project, please ⭐ star the repository and share it!
+⭐ If you like this project, don’t forget to star the repo!
